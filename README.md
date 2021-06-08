@@ -2,7 +2,7 @@
 
 This repository contains the multilingual TOP dataset created in the paper:
 
-_"Multilingual Neural Semantic Parsing for Low-Resourced Languages". Menglin Xia, Emilio Monti. *SEM2021._
+_"Multilingual Neural Semantic Parsing for Low-Resourced Languages". Menglin Xia, Emilio Monti. *SEM2021._ [\[arxiv\]](https://arxiv.org/abs/2106.03469)
 
 Please cite our paper if you use this dataset.
 
@@ -29,10 +29,10 @@ The `processed_data` directory contains the processed multilingual TOP semantic 
 
 If you use the dataset, you can use the following citation:
 ```
-@inproceedings{xia2021multilingualtop,
+@inproceedings{xia2021multilingual,
 title={Multilingual Neural Semantic Parsing for Low-Resourced Languages},
 author={Xia, Menglin and Monti, Emilio},
-booktitle={*SEM},
+booktitle={The Tenth Joint Conference on Lexical and Computational Semantics},
 year = {2021}
 }
 ```
